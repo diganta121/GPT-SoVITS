@@ -1,0 +1,10 @@
+Collecting LangSegment
+  Downloading LangSegment-0.3.5-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: numpy>=1.19.5 in c:\users\dutta\desktop\projects\gpt-sovits\venv\lib\site-packages (from LangSegment) (2.0.2)
+Collecting py3langid>=0.2.2 (from LangSegment)
+  Downloading py3langid-0.3.0-py3-none-any.whl.metadata (13 kB)
+Downloading LangSegment-0.3.5-py3-none-any.whl (28 kB)
+Downloading py3langid-0.3.0-py3-none-any.whl (746 kB)
+   ---------------------------------------- 746.1/746.1 kB 3.1 MB/s eta 0:00:00
+Installing collected packages: py3langid, LangSegment
+Successfully installed LangSegment-0.3.5 py3langid-0.3.0

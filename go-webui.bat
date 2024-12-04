@@ -1,2 +1,2 @@
-runtime\python.exe webui.py zh_CN
+.\Venv\Scripts\python.exe webui.py en
 pause
